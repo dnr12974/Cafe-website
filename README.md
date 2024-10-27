@@ -3,9 +3,6 @@
 # MugAndMagic ☕✨
 Welcome to MugAndMagic, where every cup is a spellbinding experience! This is your ultimate destination for coffee lovers who crave more than just a drink—it's about the journey of flavors and memories!
 
-# 🌟 Live Demo
-Check out the live demo of our magical coffee shop: https://dnr12974.github.io/Cafe-website/
-
 # 🎨 Features
 Freshly Brewed Delights: Handpicked beans roasted to perfection.
 
